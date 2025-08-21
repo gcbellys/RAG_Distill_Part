@@ -1,0 +1,44 @@
+{
+  "analysis_results": [
+    {
+      "file_path": "dataset/report_6001.txt",
+      "error": "分析失败: '\\n    \"document_type\"'"
+    },
+    {
+      "file_path": "dataset/report_6002.txt",
+      "error": "分析失败: '\\n    \"document_type\"'"
+    },
+    {
+      "file_path": "dataset/report_6003.txt",
+      "error": "分析失败: '\\n    \"document_type\"'"
+    }
+  ],
+  "summary": {
+    "total_files": 3,
+    "successful_analysis": 0,
+    "failed_analysis": 3,
+    "document_types": {},
+    "symptom_statistics": {
+      "files_with_symptoms": 0,
+      "common_symptoms": {},
+      "symptom_richness_distribution": {
+        "丰富": 0,
+        "中等": 0,
+        "稀少": 0
+      }
+    },
+    "diagnosis_statistics": {
+      "files_with_diagnoses": 0,
+      "common_diagnoses": {}
+    },
+    "treatment_statistics": {
+      "files_with_treatments": 0,
+      "common_treatments": {}
+    },
+    "content_quality": {
+      "high_quality": 0,
+      "medium_quality": 0,
+      "low_quality": 0
+    }
+  }
+}
